@@ -5,6 +5,6 @@ I am taking a dataset from kaggle based on oilfield accident data in the US and 
 
 First, I aim to clean the data and create a new database to store it as well as normailze it to 3NF. I will be doing this using DBeaver as my database tool and all coding with be done is Postgresql when using this tool.
 
-Second, I plan on performing queries on the data to find useful insights. I will also be learning PowerBI from datacamp and using it to help visualize the analysis I will be performing with my queries.
+Second, I plan on performing queries on the data to find useful insights. I will also be learning PowerBI from the Microsoft PL-900 certificate training course to then apply this knowledge to the project for data visualization.
 
 Finaly, I will be compiling all this information into a report that I hope to present some intresting findings in.
