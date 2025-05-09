@@ -23,3 +23,7 @@ So far what we can infer from the visulaizations on the dashboard is the followi
       1. Most accidents occured the spring months with January being the month with the most accidents.
       2. Dip in reported accidents in the June and October months
       3. Peaks in the August and Novemebr months.
+
+Some further analysis that could be done based on what can be seen in these visuals are:
+  1. Doing some statistical tests such as logistic regression to see if accident cause is related to accdient severity.
+  2. Doing further invesitgation into what types of accidents and their causes are most frequent at certain times of the year and then test if certain accident and their causes are related to the time of year. 
